@@ -5,7 +5,7 @@ A React-based savings tracker app that teaches kids about money management and c
 ## 🚀 Usage
 
 ### For Parents & Kids (Non-Technical)
-1. **Set up your account** - Enter your child's name, account name, weekly interest rate, and savings goal
+1. **Set up your Kiddo** - Enter your child's name, account name, weekly interest rate, and savings goal
 2. **Add transactions** - Record deposits (allowance, gifts, chores) and withdrawals (purchases)
 3. **Pay weekly interest** - Click "Pay Weekly Interest" to automatically calculate and add compound interest
 4. **Track progress** - Watch the progress bar fill up as you get closer to your savings goal
